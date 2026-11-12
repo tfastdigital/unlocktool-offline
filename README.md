@@ -13,6 +13,59 @@ Official product information and release downloads for **UnlockTool Offline**, a
 
 [Official download page](https://tfastunlocker.com/unlocktool-offline) · [Licence bot](https://t.me/unlocktoolofflinebot) · [Release channel](https://t.me/tfasthub)
 
+## Get started: install and activate
+
+### Before you begin
+
+- Use **Windows 10 or Windows 11, 64-bit**.
+- Keep at least **25 GB of free disk space** for downloading, verification and extraction.
+- Download all **eight archive parts**, the branded extractor and `SHA256SUMS.txt`.
+- Put every downloaded file in the **same folder**. Do not rename an archive part.
+- Use a real **`@gmail.com` address** that you control. Temporary or fake-looking email addresses are not accepted.
+- Have Telegram available and join the official [TFast Hub channel](https://t.me/tfasthub).
+
+### Step 1 — Download and install
+
+1. Download the complete release from the [official download page](https://tfastunlocker.com/unlocktool-offline) or [GitHub release](https://github.com/tfastdigital/unlocktool-offline/releases/tag/v2026.11.08.0).
+2. Verify the downloaded files against the published SHA-256 values.
+3. Keep all archive parts beside the branded extractor.
+4. Close an older UnlockTool window after any running device operation has finished.
+5. Run the branded extractor. It checks the archive and available disk space.
+6. Run the extracted setup and finish installation.
+
+### Step 2 — Request a free licence
+
+1. Open the official [UnlockTool licence bot](https://t.me/unlocktoolofflinebot) and press **Start**.
+2. Join the official [TFast Hub channel](https://t.me/tfasthub).
+3. Return to the bot and confirm membership when requested.
+4. Send only your own Gmail address, for example `yourname@gmail.com`. Do not send the example address literally.
+5. The bot sends a **one-use activation code**. The code is valid for **30 minutes**.
+
+### Step 3 — Activate this PC
+
+1. Open UnlockTool Offline.
+2. Enter the **same Gmail address** used in the Telegram bot.
+3. Enter the one-use activation code exactly as received.
+4. Select **Activate** and wait for the success message.
+5. The licence binds to the first PC that activates it. Keep the same Gmail for status, renewal and support requests.
+
+The user and administrator receive a Telegram notification after successful activation. Never publish your activation code, PC identifier, email, logs, IMEI or serial number.
+
+### After activation: work offline
+
+After the licence has been activated on the PC, **internet access is not required for device operations**. The installed application and payload run locally. Internet is needed only to request or activate a licence, check or download updates, or use online support links.
+
+### If activation does not work
+
+- **Join requirement still shown:** confirm you joined the correct channel, return to the bot and press the membership confirmation button again.
+- **Code rejected or expired:** request a new code; each code is one-use and valid for 30 minutes.
+- **Email rejected:** use a valid personal `@gmail.com` address and enter it identically in the bot and application.
+- **Licence already bound:** check **My status** in the bot. Contact support if the original PC must be revoked or restored.
+- **No notification:** open the bot, press **Start**, make sure it is not muted or blocked, and check **My status**.
+- **Still blocked:** use [Report a bug](https://t.me/unlocktoolofflinebot) or the [official support page](https://tfastdigital.github.io/unlocktool-offline/support/). Remove private identifiers before posting logs publicly.
+
+[Open the illustrated installation guide](https://tfastdigital.github.io/unlocktool-offline/install/)
+
 ## Supported operations
 
 | Platform or mode | Status | Available public capability |
