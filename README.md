@@ -13,6 +13,15 @@ Official product information and release downloads for **UnlockTool Offline**, a
 
 [Official download page](https://tfastunlocker.com/unlocktool-offline) · [Licence bot](https://t.me/unlocktoolofflinebot) · [Release channel](https://t.me/tfasthub)
 
+## Public product information
+
+- [Release changelog](CHANGELOG.md)
+- [Features](docs/FEATURES.md)
+- [Supported operations and readiness](docs/SUPPORTED-OPERATIONS.md)
+- [Supported-model catalogue](docs/SUPPORTED-MODELS.md)
+- [Search all public model entries](https://tfastdigital.github.io/unlocktool-offline/models/)
+- [Development and publishing workflow](DEVELOPMENT.md)
+
 ## Help improve UnlockTool
 
 We welcome technicians, developers and device specialists who want to contribute to the project. Planned growth includes more verified operations, device models, chipset support, loaders, installation guidance and troubleshooting information.

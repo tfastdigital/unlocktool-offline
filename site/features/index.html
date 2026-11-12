@@ -1,1 +1,34 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>UnlockTool Offline Features and Operations</title><meta name="description" content="Explore UnlockTool Offline device information, flashing, diagnostics, logging, installer and licence capabilities."><link rel="canonical" href="https://tfastdigital.github.io/unlocktool-offline/features/"><meta property="og:title" content="UnlockTool Offline features"><link rel="stylesheet" href="../assets/site.css"></head><body><header><a class="brand" href="../">UnlockTool Offline</a><nav><a href="../models/">Models</a><a href="../download/">Download</a><a href="../support/">Support</a></nav></header><main><h1>Features and operations</h1><div class="grid"><article class="card"><h2>Device information</h2><p>Read public hardware, firmware, activation, SIM, network and connection information when exposed by the device interface.</p></article><article class="card"><h2>Service operations</h2><p>Model-dependent flashing, reset, readback, backup and recovery operations with pre-operation checks.</p></article><article class="card"><h2>Diagnostics and logs</h2><p>Organised operation logs and clear reports for driver problems, missing models and loader mismatches.</p></article></div><div class="notice">Availability varies by model, chipset, firmware and connection mode. Confirm the exact supported action in the application.</div></main><footer><a href="../">Home</a> · © TFast Digital Agency</footer></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>UnlockTool Offline Features and Supported Operations</title>
+  <meta name="description" content="UnlockTool Offline features and transparent readiness status for Qualcomm, MediaTek, ADB, Fastboot, Unisoc, Apple and Samsung workflows.">
+  <link rel="canonical" href="https://tfastdigital.github.io/unlocktool-offline/features/">
+  <meta property="og:title" content="UnlockTool Offline features and operations">
+  <link rel="stylesheet" href="../assets/site.css">
+  <link rel="stylesheet" href="../assets/catalog.css">
+</head>
+<body>
+  <header><a class="brand" href="../">UnlockTool Offline</a><nav><a href="../models/">Models</a><a href="../changelog/">Changelog</a><a href="../download/">Download</a><a href="../support/">Support</a></nav></header>
+  <main>
+    <h1>Features and operations</h1>
+    <div class="grid"><article class="card"><h2>Device information</h2><p>Read public hardware, firmware, activation, SIM, network and connection information when exposed by the device interface.</p></article><article class="card"><h2>Service workflows</h2><p>Model-dependent flashing, reset, readback, backup and recovery actions with pre-operation checks.</p></article><article class="card"><h2>Diagnostics and logs</h2><p>Organised operation logs and actionable reports for drivers, missing data, models and loader mismatches.</p></article></div>
+    <h2>Operation readiness</h2>
+    <div class="table-wrap"><table><thead><tr><th>Area</th><th>Status</th><th>Public capability</th></tr></thead><tbody>
+      <tr><td>Qualcomm EDL</td><td><span class="status available">Available</span></td><td>Model-dependent information, reset, FRP, readback and flash recipes.</td></tr>
+      <tr><td>MediaTek BROM / Preloader</td><td><span class="status available">Available</span></td><td>Model-dependent information, partition, format/reset, backup/restore and boot-mode workflows.</td></tr>
+      <tr><td>MediaTek META</td><td><span class="status conditional">Device-dependent</span></td><td>Information, partition/profile data, selected partition backup and NVRAM backup.</td></tr>
+      <tr><td>ADB / Fastboot</td><td><span class="status available">Available</span></td><td>Information, supported reboot modes and authorised catalogue actions.</td></tr>
+      <tr><td>Sideload / Mi Assistant</td><td><span class="status conditional">Device-dependent</span></td><td>Information and catalogue-provided reset, FRP, EFS or MiCloud actions.</td></tr>
+      <tr><td>Unisoc / SPD</td><td><span class="status conditional">Loader-dependent</span></td><td>Information, reset, FRP and NVRAM backup/restore with a compatible loader.</td></tr>
+      <tr><td>Apple trusted USB</td><td><span class="status available">Available</span></td><td>Detailed device information and serial export with compatible drivers and device trust.</td></tr>
+      <tr><td>Apple recovery / Purple / ramdisk</td><td><span class="status experimental">Experimental</span></td><td>Hardware-unverified; use only when the exact action is enabled with matching guidance.</td></tr>
+      <tr><td>Samsung automated Odin buttons</td><td><span class="status limited">Limited</span></td><td>Some actions require a compatible clean helper and archives that are not shipped.</td></tr>
+    </tbody></table></div>
+    <div class="notice">Availability varies by model, chipset, firmware/security patch, loader, helper and connection mode. A catalogue entry is not a universal hardware-test claim.</div>
+  </main>
+  <footer><a href="https://github.com/tfastdigital/unlocktool-offline/blob/main/docs/SUPPORTED-OPERATIONS.md">Full operation notes</a> · © TFast Digital Agency</footer>
+</body>
+</html>
