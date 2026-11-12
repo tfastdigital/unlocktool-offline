@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tfastdigital.github.io/unlocktool-offline/sitemap.xml

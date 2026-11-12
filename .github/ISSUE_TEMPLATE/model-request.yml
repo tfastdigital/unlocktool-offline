@@ -1,0 +1,17 @@
+name: Model request
+description: Request support for a public device model
+body:
+  - type: markdown
+    attributes:
+      value: "Do not post IMEI, serial numbers, account details, licence codes or private firmware/payload files."
+  - type: input
+    id: model
+    attributes: {label: Brand and model}
+    validations: {required: true}
+  - type: input
+    id: platform
+    attributes: {label: Chipset and software/security patch}
+  - type: input
+    id: operation
+    attributes: {label: Requested authorised operation}
+    validations: {required: true}

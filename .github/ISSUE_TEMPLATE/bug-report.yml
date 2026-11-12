@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible UnlockTool application problem
+body:
+  - type: markdown
+    attributes:
+      value: "Remove email addresses, licence codes, IP addresses, IMEI, serial numbers and Telegram IDs before posting. Send sensitive logs through official private support only."
+  - type: input
+    id: version
+    attributes: {label: UnlockTool version}
+    validations: {required: true}
+  - type: input
+    id: device
+    attributes: {label: Public brand and model}
+    validations: {required: true}
+  - type: input
+    id: operation
+    attributes: {label: Operation and connection mode}
+    validations: {required: true}
+  - type: textarea
+    id: result
+    attributes: {label: Expected and actual result}
+    validations: {required: true}

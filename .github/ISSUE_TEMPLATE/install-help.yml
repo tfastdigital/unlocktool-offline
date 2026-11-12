@@ -1,0 +1,20 @@
+name: Installation help
+description: Ask about downloading, extracting or installing UnlockTool
+body:
+  - type: markdown
+    attributes:
+      value: "Do not post your email, activation code, IP address, licence file or screenshots containing private identifiers."
+  - type: input
+    id: version
+    attributes: {label: Package version}
+    validations: {required: true}
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Where did installation stop?
+      options: [Download, Checksum verification, Extraction, Setup, Activation, First launch]
+    validations: {required: true}
+  - type: textarea
+    id: error
+    attributes: {label: Exact public error text}
+    validations: {required: true}
