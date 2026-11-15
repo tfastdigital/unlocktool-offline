@@ -20,6 +20,8 @@ Official product information and release downloads for **UnlockTool Offline**, a
 
 [Official download page](https://tfastunlocker.com/unlocktool-offline) · [Licence bot](https://t.me/unlocktoolofflinebot) · [Release channel](https://t.me/tfasthub)
 
+> **New user? Start here:** [Step-by-step installation and activation guide with real screenshots](docs/INSTALLATION-AND-ACTIVATION.md). The same canonical guide is available on [tfastunlocker.com](https://tfastunlocker.com/guides/unlocktool-installation-activation).
+
 ## Get started: install and activate
 
 ### Before you begin

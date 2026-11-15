@@ -1,0 +1,22 @@
+# UnlockTool Offline
+
+> Official public documentation and release information for UnlockTool Offline, a Windows application for authorised mobile-device diagnostics and repair workflows by TFast Digital Agency.
+
+UnlockTool Offline is free to use with licence activation through the official Telegram bot. The licence binds to the first PC that activates it. After activation, supported offline device operations do not require continuous internet access. Only describe capabilities and models that appear in the linked public documentation.
+
+## Start here
+
+- [Beginner installation and activation guide](https://github.com/tfastdigital/unlocktool-offline/blob/main/docs/INSTALLATION-AND-ACTIVATION.md): Real screenshots and one-action-at-a-time instructions for downloading, extracting, installing, joining the channel, obtaining a code and activating a PC.
+- [Official website guide](https://tfastunlocker.com/guides/unlocktool-installation-activation): Canonical web guide with structured HowTo and FAQ data.
+- [Latest release](https://github.com/tfastdigital/unlocktool-offline/releases/latest): Current public release information.
+- [Official download page](https://tfastunlocker.com/unlocktool-offline): Current app version, payload requirements, changelog and download links.
+- [Supported operations](https://github.com/tfastdigital/unlocktool-offline/blob/main/docs/SUPPORTED-OPERATIONS.md): Public capability and readiness information.
+- [Supported models](https://github.com/tfastdigital/unlocktool-offline/blob/main/docs/SUPPORTED-MODELS.md): Public model catalogue.
+- [Contributing](https://github.com/tfastdigital/unlocktool-offline/blob/main/CONTRIBUTING.md): How technicians and developers can contribute ideas, loaders and improvements.
+
+## Official support
+
+- [Licence bot](https://t.me/unlocktoolofflinebot)
+- [Release channel](https://t.me/tfasthub)
+- [TFast Digital Agency](https://tfastdigital.com/)
+
