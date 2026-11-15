@@ -10,6 +10,22 @@ Customer-facing changes are recorded here and on the [public changelog](https://
 - Public feature and operation-status documentation.
 - A repeatable workflow for publishing model, operation and release-note changes.
 
+## 2026.11.15.0 — Application Hotfix
+
+Released 15 November 2026.
+
+### Fixed
+
+- Corrected the false `Unexpected file: Uninstall.exe` installation-integrity warning.
+- Kept validation for unrelated or modified application files.
+
+### Update instructions
+
+- Existing users install the application update over `C:\UnlockTool`.
+- Existing payload, licence, configuration and logs are preserved.
+- The 7 GB payload does not need to be downloaded again.
+- Added the official [installation and activation video guide](https://youtu.be/gk_cdvRZn0A).
+
 ## 2026.11.08.0 — Full Setup + Payload
 
 Released 12 November 2026.

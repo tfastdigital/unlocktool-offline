@@ -4,7 +4,14 @@ Official product information and release downloads for **UnlockTool Offline**, a
 
 ## Latest release
 
-**2026.11.08.0 — Full Setup + Payload**
+**2026.11.15.0 — Application Hotfix**
+
+- Fixes the false `Unexpected file: Uninstall.exe` startup warning
+- Existing users install over `C:\UnlockTool`; payload, licence, settings and logs are preserved
+- No payload redownload is needed when the 2026.11.08.0 payload is already installed
+- [Watch the official installation and activation guide](https://youtu.be/gk_cdvRZn0A)
+
+**Full payload base: 2026.11.08.0**
 
 - Download: approximately **7 GB** across eight archive parts
 - Free disk space: at least **25 GB**
@@ -26,7 +33,7 @@ Official product information and release downloads for **UnlockTool Offline**, a
 
 ### Step 1 — Download and install
 
-1. Download the complete release from the [official download page](https://tfastunlocker.com/unlocktool-offline) or [GitHub release](https://github.com/tfastdigital/unlocktool-offline/releases/tag/v2026.11.08.0).
+1. Download the complete release from the [official download page](https://tfastunlocker.com/unlocktool-offline). The full payload remains version 2026.11.08.0; the current application installer is 2026.11.15.0.
 2. Verify the downloaded files against the published SHA-256 values.
 3. Keep all archive parts beside the branded extractor.
 4. Close an older UnlockTool window after any running device operation has finished.
